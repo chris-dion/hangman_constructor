@@ -1,0 +1,19 @@
+{
+  "name": "hangman_constructor",
+  "version": "1.0.0",
+  "description": "This project is for creating a console based version of hangman using constructors.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-dion/hangman_constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-dion/hangman_constructor/issues"
+  },
+  "homepage": "https://github.com/chris-dion/hangman_constructor#readme"
+}
